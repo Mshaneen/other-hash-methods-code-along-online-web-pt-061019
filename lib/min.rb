@@ -7,5 +7,5 @@
  }
 
 def get_the_min(groceries)
-  #code your solution here!
+  #groceries.values.flatten.mincode your solution here!
 end
