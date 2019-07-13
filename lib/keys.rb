@@ -7,5 +7,5 @@
  }
 
 def get_the_keys(groceries)
-  groceries.values.flatten
+  groceries.values.flatten,
 end
