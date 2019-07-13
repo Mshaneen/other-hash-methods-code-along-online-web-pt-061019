@@ -6,6 +6,6 @@
   grains: ["rice", "pasta"]
  }
 
-def get_the_values(groceries)
+def 
   groceries.values
 end
